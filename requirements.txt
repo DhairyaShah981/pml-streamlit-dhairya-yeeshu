@@ -2,5 +2,5 @@ streamlit==1.28.1
 numpy==1.23.5
 matplotlib==3.7.2
 scikit-learn==1.2.2
-modAL-python==0.4.2
+modAL-python==0.4.2.1
 seaborn==0.12.2
